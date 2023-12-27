@@ -1,0 +1,12 @@
+
+@media (max-width:320px){   
+    .luvas{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .precosLuvas{
+        height: 490px;
+    }
+
+}

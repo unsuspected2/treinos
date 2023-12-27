@@ -1,0 +1,12 @@
+@media (max-width:320px){  
+
+    .precosContas{
+        background: cadetblue;
+        height: 470px;
+    }
+    
+    .Contas{
+        flex-direction: column;
+        align-items: center;
+    }
+}
